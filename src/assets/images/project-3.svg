@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#13633E"/><stop offset="1" stop-color="#9E0FA3"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect x="105" y="125" width="590" height="250" rx="28" fill="#162914" opacity=".72"/>
+  <rect x="135" y="155" width="180" height="190" rx="18" fill="#E1F0BC"/>
+  <rect x="345" y="155" width="140" height="80" rx="16" fill="#B0E382"/>
+  <rect x="345" y="255" width="140" height="90" rx="16" fill="#5BA46B"/>
+  <rect x="515" y="155" width="150" height="190" rx="18" fill="#BCAB0B" opacity=".92"/>
+  <path d="M225 250h120m-60-60v120m150-120h110m-55-55v110" stroke="#413ECC" stroke-width="10" stroke-linecap="round"/>
+  <text x="105" y="90" fill="#E1F0BC" font-family="Arial, sans-serif" font-size="34" font-weight="700">DIGITAL FLOW</text>
+</svg>

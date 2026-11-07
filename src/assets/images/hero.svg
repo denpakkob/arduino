@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#162914"/><stop offset="1" stop-color="#13633E"/></linearGradient></defs>
+  <rect width="800" height="600" rx="36" fill="url(#heroBg)"/>
+  <circle cx="650" cy="105" r="120" fill="#E1F0BC" opacity=".13"/>
+  <circle cx="105" cy="500" r="140" fill="#B0E382" opacity=".12"/>
+  <path d="M95 455c100-145 230-190 370-165 100 18 160 100 240 90v115H95z" fill="#E1F0BC" opacity=".95"/>
+  <path d="M150 405c55-65 120-90 190-95m-105 155c55-55 115-80 180-90" fill="none" stroke="#13633E" stroke-width="13" stroke-linecap="round"/>
+  <rect x="510" y="145" width="220" height="145" rx="24" fill="#E1F0BC"/>
+  <path d="M545 225l45-45 35 35 70-85" fill="none" stroke="#5BA46B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="510" y="315" width="105" height="105" rx="20" fill="#B0E382"/>
+  <rect x="630" y="315" width="100" height="105" rx="20" fill="#BCAB0B" opacity=".9"/>
+  <text x="95" y="95" fill="#E1F0BC" font-family="Arial, sans-serif" font-size="32" font-weight="700">SUSTAINABLE GROWTH</text>
+</svg>

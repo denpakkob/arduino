@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9E0FA3"/><stop offset="1" stop-color="#13633E"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="145" cy="105" r="90" fill="#E1F0BC" opacity=".16"/>
+  <path d="M105 390c90-170 210-230 350-200 100 22 150 100 240 90v120H105z" fill="#E1F0BC" opacity=".92"/>
+  <path d="M180 330c55-70 105-95 170-100m-80 155c50-55 105-80 165-90" fill="none" stroke="#13633E" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="620" cy="120" r="48" fill="#BCAB0B"/>
+  <text x="105" y="282" fill="#E1F0BC" font-family="Arial, sans-serif" font-size="34" font-weight="700">COMMUNITY GROWTH</text>
+</svg>

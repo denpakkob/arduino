@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#413ECC"/><stop offset="1" stop-color="#9E0FA3"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <path d="M120 390V205c0-70 55-120 125-120s125 50 125 120v185" fill="none" stroke="#E1F0BC" stroke-width="22"/>
+  <path d="M280 390V235c0-45 35-78 78-78s78 33 78 78v155" fill="none" stroke="#B0E382" stroke-width="20"/>
+  <path d="M430 390V260c0-28 22-48 48-48s48 20 48 48v130" fill="none" stroke="#BCAB0B" stroke-width="18"/>
+  <path d="M120 390h450" stroke="#E1F0BC" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="620" cy="120" r="55" fill="#5BA46B"/>
+  <text x="105" y="155" fill="#E1F0BC" font-family="Arial, sans-serif" font-size="34" font-weight="700">FINTECH LAUNCH</text>
+</svg>
