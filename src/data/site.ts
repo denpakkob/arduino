@@ -37,9 +37,9 @@ export const testimonials = [
 
 export const teamMembers = [
   {
-    name: 'Engineering Lead',
-    role: 'Mechanical & Project Management',
-    bio: 'Placeholder profile for the engineering practice leadership.',
+    name: 'Hj. Muhammad Darawi bin Othman',
+    role: 'Managing Director',
+    bio: 'Leading AMDARPreneur across mechanical, electrical, and civil engineering services.',
   },
   {
     name: 'Electrical Engineer',

@@ -155,7 +155,7 @@ export default function About() {
                   </span>
                   <h3 className="mt-6 font-display text-lg font-bold text-forest">{member.name}</h3>
                   <p className="mt-2 text-xs font-bold uppercase tracking-[0.16em] text-moss">{member.role}</p>
-                  <p className="mt-4 text-sm leading-6 text-forest/60">{member.bio}</p>
+                  {member.bio && <p className="mt-4 text-sm leading-6 text-forest/60">{member.bio}</p>}
                 </article>
               </Reveal>
             ))}
