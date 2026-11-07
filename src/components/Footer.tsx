@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Twitter } from 'lucide-react'
 import { services } from '../data/services'
 import { site } from '../data/site'
-import logo from '../assets/logos/logo.svg'
+import logo from '../assets/logos/logo.jpeg'
 
 const socialIcons = {
   LinkedIn: Linkedin,

@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { Menu, X } from 'lucide-react'
 import { site } from '../data/site'
-import logo from '../assets/logos/logo.svg'
+import logo from '../assets/logos/logo.jpeg'
 
 const links = [
   { label: 'Home', to: '/' },
